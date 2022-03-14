@@ -38,4 +38,4 @@
 
 > `VSCode`虚拟程序鼓励师插件，支持`HBuilderX`。独立容器启用全局输入交互后，可兼容IDEA，Webstorm等各类编码环境。
 
-enjoy！
+enjoy！666
